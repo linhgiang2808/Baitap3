@@ -1,0 +1,30 @@
+*{
+margin:0;padding:0
+}
+ol,ul{
+list-style: none
+}
+a{
+text-decoration:none
+}
+footer.bt1{
+width:700px;padding:20px;background:rgb(182, 156, 6)
+}
+footer.bt1 h2{
+margin-bottom:20px;padding-bottom:20px;color:#fff;border-bottom:1px solid rgb(255, 255, 255)
+}
+footer.bt1 a,footer.bt1 p{
+color:rgb(255, 253, 253)
+}
+footer.bt1 ul li{
+margin-bottom:10px
+}
+footer.bt1 .about{
+width:60%;margin-right:20px
+}
+footer.bt1 .links{
+width:40%
+}
+.flex{
+display:flex
+}
